@@ -13,5 +13,7 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": "https://github.com/Esposi/proj3-api.git",
+  "author": "Victor Esposi <44883287+Esposi@users.noreply.github.com>"
 }
